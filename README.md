@@ -11,7 +11,7 @@ I've spent 10+ years shipping web products at enterprise scale: real-time AR in 
 - Reading the logs: evals, error analysis, and fixing what they show
 
 ## Building now
-- **[FGSD](https://github.com/VancheeZze/FGSD)**: an open-source, plain-markdown system that turns Claude or ChatGPT into a project coach
+- **[FGSD](https://github.com/Vanchezze/FGSD)**: an open-source, plain-markdown system that turns Claude or ChatGPT into a project coach
 - An AI voice and chat receptionist with my own serverless delivery pipeline (Next.js on Vercel)
 
 ## Online
